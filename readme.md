@@ -1,3 +1,4 @@
+These codes are for the paper ""Rank-One NMF-Based Initialization for NMF and Relative Error Bounds under a Geometric Assumption"". The structure is as follows.
 1. demo.m includes the example codes for a synthetic dataset and a real dataset; 
 2. The codes for main algorithms are included in the folder named “algorithms";
 3. The codes in the folder named “plotFuncs" are only used for plotting the results;
