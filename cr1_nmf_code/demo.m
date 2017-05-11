@@ -1,4 +1,5 @@
-% Demo file for ARD-NMF
+% Demo file for the experiments in the paper 
+% "Rank-One NMF-Based Initialization for NMF and Relative Error Bounds under a Geometric Assumption"
 % Just run demo.m in Matlab
 
 clear all; clc
